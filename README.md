@@ -9,6 +9,11 @@
 - 主控机录制手势操作脚本，在被控机上进行复现
 
 ![](http://www.pchmall.com/Public/wx_func/1.jpg)
+![](http://www.pchmall.com/Public/wx_func/2.jpg)
+![](http://www.pchmall.com/Public/wx_func/3.jpg)
+![](http://www.pchmall.com/Public/wx_func/4.jpg)
+![](http://www.pchmall.com/Public/wx_func/5.jpg)
+![](http://www.pchmall.com/Public/wx_func/6.jpg)
 
 
 
