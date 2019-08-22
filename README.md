@@ -8,7 +8,7 @@
 - 主控机对被控机进行批量APP的安装、升级、卸载
 - 主控机录制手势操作脚本，在被控机上进行复现
 
-(https://m.qpic.cn/psb?/V11mungH3aJe9k/xNEXzAN51fEzcWjNwPPLrFYjrGtcb968fAQlG2nf7XE!/b/dL8AAAAAAAAA&bo=7gI1BQAAAAARB.w!&rf=viewer_4)
+![Pandao editor.md](http://www.pchmall.com/Public/wx_func/1.jpg)
 
 
 
