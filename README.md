@@ -13,17 +13,17 @@
 - 通讯   TCP socket
 #### APP图片
 - 扫码加入云控组
-<img src="http://www.pchmall.com/Public/wx_func/1.jpg"  height = "300" />
+- <img src="http://www.pchmall.com/Public/wx_func/1.jpg"  height = "300" />
 - 被控机信息
-<img src="http://www.pchmall.com/Public/wx_func/2.jpg"  height = "300" />
+- <img src="http://www.pchmall.com/Public/wx_func/2.jpg"  height = "300" />
 - 主控机对被控机进行分组
-<img src="http://www.pchmall.com/Public/wx_func/3.jpg"  height = "300" />
+- <img src="http://www.pchmall.com/Public/wx_func/3.jpg"  height = "300" />
 - 主控机扫码将被控机加入分组
-<img src="http://www.pchmall.com/Public/wx_func/4.jpg"  height = "300" />
+- <img src="http://www.pchmall.com/Public/wx_func/4.jpg"  height = "300" />
 - 主控机批量控制被控机APP
-<img src="http://www.pchmall.com/Public/wx_func/5.jpg"  height = "300" />
+- <img src="http://www.pchmall.com/Public/wx_func/5.jpg"  height = "300" />
 - 主控机选择要控制的被控机
-<img src="http://www.pchmall.com/Public/wx_func/6.jpg"  height = "300" />
+- <img src="http://www.pchmall.com/Public/wx_func/6.jpg"  height = "300" />
 
 
 
