@@ -8,7 +8,7 @@
 - 主控机对被控机进行批量APP的安装、升级、卸载
 - 主控机录制手势操作脚本，在被控机上进行复现
 
-![](http://www.pchmall.com/Public/wx_func/1.jpg)
+![](http://www.pchmall.com/Public/wx_func/1.jpg){:height="100px"}
 ![](http://www.pchmall.com/Public/wx_func/2.jpg)
 ![](http://www.pchmall.com/Public/wx_func/3.jpg)
 ![](http://www.pchmall.com/Public/wx_func/4.jpg)
