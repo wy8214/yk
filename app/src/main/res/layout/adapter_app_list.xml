@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:id="@+id/ll_container"
+        android:padding="14dp">
+
+        <ImageView
+            android:layout_width="50dp"
+            android:id="@+id/iv"
+            android:layout_height="50dp"
+            android:src="#ccc" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="18dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_l_1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="趣头条"
+                android:textColor="#555" />
+
+            <TextView
+                android:id="@+id/tv_l_2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:text="正在上传"
+                android:textColor="#999"
+                android:textSize="14sp" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="0px"
+            android:layout_height="2dp"
+            android:layout_weight="1" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_r_1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="0/50"
+                android:textColor="#999"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/tv_r_2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="6dp"
+                android:text="设备已安装"
+                android:textColor="#999"
+                android:textSize="12sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="#ccc" />
+</LinearLayout>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_large">20sp</dimen>
+    <dimen name="text_medium">16sp</dimen>
+    <dimen name="text_small">14sp</dimen>
+    <dimen name="text_tab">18sp</dimen>
+    <dimen name="padding1x">2dp</dimen>
+    <dimen name="padding2x">4dp</dimen>
+    <dimen name="padding3x">8dp</dimen>
+    <dimen name="padding4x">12dp</dimen>
+    <dimen name="padding5x">16dp</dimen>
+    <dimen name="padding6x">24dp</dimen>
+    <dimen name="title_height">48dp</dimen>
+
+    <dimen name="load_more_footer_height_classic">60dp</dimen>
+
+    <dimen name="refresh_header_height_twitter">80dp</dimen>
+
+
+    <dimen name="bottom_height">52dp</dimen>
+
+    <!-- google -->
+    <dimen name="drawer_width">280dp</dimen>
+    <dimen name="check_size">18dp</dimen>
+    <dimen name="pay_cion">24dp</dimen>
+    <dimen name="egg_w">80dp</dimen>
+    <dimen name="egg_h">108dp</dimen>
+    <dimen name="table_height">80dp</dimen>
+    <dimen name="line_hight">44dp</dimen>
+    <dimen name="line_hight_edit">50dp</dimen>
+    <dimen name="edit_left_w">100dp</dimen>
+    <dimen name="type_list_left">80dp</dimen>
+    <dimen name="shop_item_h_w">82dp</dimen>
+    <dimen name="item_h_w">75dp</dimen>
+    <dimen name="shop_hot_w">170dp</dimen>
+    <dimen name="text_height">36dp</dimen>
+    <dimen name="item_big_image_w_h">170dp</dimen>
+    <dimen name="type_list_image_w_h">74dp</dimen>
+    <dimen name="max_dialog_h">320dp</dimen>
+    <dimen name="item_dtail_iv">377dp</dimen>
+    <dimen name="seller_home_banner_h">237dp</dimen>
+    <dimen name="seller_home_type_w_h">44dp</dimen>
+    <dimen name="seller_home_tuijian_w_h">117dp</dimen>
+    <dimen name="guess_h">111dp</dimen>
+    <dimen name="bottom_bt_w">116dp</dimen>
+    <dimen name="pingjia_head_w_h">52dp</dimen>
+    <dimen name="note_image_w_h">66dp</dimen>
+    <dimen name="choose_size_iv_w_h">67dp</dimen>
+    <dimen name="reduce_up_h">20dp</dimen>
+    <dimen name="choose_size_dialog_h">320dp</dimen>
+    <dimen name="statusbar_height">24dp</dimen>
+
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+</resources>

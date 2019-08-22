@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: fragmentation-release:@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/fragmentation-release.aar/7910e41dd6b734c7c9bd638ccec67bf2/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/fragmentation-release.aar/7910e41dd6b734c7c9bd638ccec67bf2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/fragmentation-release.aar/7910e41dd6b734c7c9bd638ccec67bf2/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

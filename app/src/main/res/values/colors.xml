@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F3B3A</color>
+    <color name="colorPrimaryDark">#3F3B3A</color>
+    <color name="colorAccent">#FCF270</color>
+
+    <color name="textcolor_normal">#333333</color>
+    <color name="textcolor_blue">#00A4E6</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#ffffff</color>
+    <color name="tab_unselect">#B3B4B4</color>
+    <color name="nabar">#525050</color>
+    <color name="red">#D54942</color>
+
+
+    <!--zxing-->
+    <color name="contents_text">#000000</color>
+    <color name="encode_view">#ffffff</color>
+    <color name="possible_result_points">#ffbd21</color>
+    <color name="result_minor_text">#c0c0c0</color>
+    <color name="result_points">#99cc00</color>
+    <color name="result_text">#ffffff</color>
+    <color name="result_view">#000000</color>
+    <color name="status_text">#ffffff</color>
+    <color name="viewfinder_mask">#50000000</color>
+    <color name="react">#ffffff</color>
+    <color name="scanLineColor">#ffffff</color>
+
+</resources>

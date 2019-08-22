@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tonystark.android:socket-3.1.0">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/socket-3.1.0.aar/461e303bbef1e60025872332d736f029/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/socket-3.1.0.aar/461e303bbef1e60025872332d736f029/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/socket-3.1.0.aar/461e303bbef1e60025872332d736f029/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tonystark.android/socket/3.1.0/90aeafd4f930043c6ac5556d5723f4be74315062/socket-3.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

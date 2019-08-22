@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <include layout="@layout/title_bar" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:text="录入成功"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/tv_address"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="默认组 第1排 第1台"
+        android:textColor="#999"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/tv_goon"
+        android:layout_width="150dp"
+        android:layout_height="42dp"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/shape_bt_yellow"
+        android:gravity="center"
+        android:text="继续录入"
+        android:textSize="18sp" />
+</LinearLayout>
